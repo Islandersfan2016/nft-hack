@@ -1,0 +1,15 @@
+{
+   "name": ,
+   "description":,
+   "image": ,
+   "external_url": ,
+   "animation_url": ,
+   // the below section is not needed.
+   "attributes": [
+      {
+         "key": ,
+         "trait_type": ,
+         "value":
+      }
+   ]
+}
